@@ -1,28 +1,21 @@
 # Webscraping pagina de noticias: Eltiempo.com.ve
-###Objetivo
+### Objetivo
 El programa, guardara los titulares, cuerpo de la noticia en un archivo .txt y almacenara en una carpeta con la fecha de origen de la publicación
 
-**Contenido**
-
-[TOC]
-
-
-###Links
+### Links
 
 `link del repositorio` : <https://github.com/araod14/El_tiempo_webscrap/>
 
 `Pagina noticiero digital El tiempo` : <https://eltiempove.com/>
 
 
-Cuenta twitter ElTiempove @eltiempove
-
-###Requerimientos
+### Requerimientos
 
 - Conda
 - Terminal Linux o subsistema Linux
 
 
-###Instalar requerimientos con Conda
+### Instalar requerimientos con Conda
 Descarga web scraper del repositorio
 `git clone https://github.com/araod14/El_tiempo_webscrap.git`
 
